@@ -8,4 +8,4 @@ The exercise instructions can be found in the [Wiki](https://github.com/urig/pyt
 
 The exercise was originally written as a prerequisite for a Python data science workshop given at the [IDC](https://www.idc.ac.il/).
 
-If you have any questions or feedback please email me at [uri.goldstein@post.idc.ac.il](mailto:uri.goldstein@post.idc.ac.il)
+If you have any questions or feedback please email me at [yoav@yoavram.com](mailto:yoav@yoavram.com)
